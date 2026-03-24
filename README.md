@@ -11,7 +11,7 @@ Zirh-mobil kutubxonasidan foydalanishni boshlash uchun uni o'z Android loyihangi
 
 # `aar` fayl orqali kutubxonani ulash
 `aar` faylni kutubxonaga qo'shish uchun loyihangizdagi `app` papkasining ichida yangi `libs` nomli papka yarating va unga `.aar` formatidagi
-Zirh-mobil kutubxona faylini joylashtiring.
+Zirh-mobil kutubxona faylini joylashtiring.D
 ```
 app/
  └── libs/
